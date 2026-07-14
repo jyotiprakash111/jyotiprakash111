@@ -1,39 +1,43 @@
-<h1 align="center">
-  Hi 👋, I'm Jyoti Prakash
-</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Engineer • React • Next.js • TypeScript • AI Enthusiast
-</h3>
+# Hi 👋 I'm Jyoti Prakash
 
-<p align="center">
-Building fast, scalable and beautiful digital experiences.
+### Full Stack Engineer • React • Next.js • TypeScript • AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Open+Source+Enthusiast;Currently+Exploring+AI+Integrations" />
+
+<p>
+
+<a href="https://twitter.com/Jyotiprakassh">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://t.me/jyotiprakashh">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=jyotiprakash111&style=for-the-badge&color=blue"/>
+
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Exploring+AI+and+Claude+Integrations;Always+Learning+🚀" />
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+# 👨🏻‍💻 About Me
 
-```ts
+```typescript
 const jyoti = {
-  location: "Bangalore, India",
-  role: "Full Stack Engineer",
+  location: "Bangalore 🇮🇳",
 
-  currentlyLearning: [
-    "Claude Integrations",
-    "AI Agents",
-    "LLMs"
-  ],
+  role: "Full Stack Engineer",
 
   frontend: [
     "React",
     "Next.js",
     "TypeScript",
-    "TailwindCSS"
+    "Redux",
+    "Tailwind CSS"
   ],
 
   backend: [
@@ -42,27 +46,43 @@ const jyoti = {
     "REST APIs"
   ],
 
-  databases: [
+  database: [
     "MongoDB",
-    "PostgreSQL"
+    "PostgreSQL",
+    "Prisma"
   ],
 
-  hobbies: [
-    "Building Products",
-    "Open Source",
-    "Coffee ☕"
-  ]
+  cloud: [
+    "AWS",
+    "Vercel",
+    "Firebase"
+  ],
+
+  currentlyLearning: [
+    "AI Agents",
+    "Claude",
+    "MCP",
+    "LLMs"
+  ],
+
+  motto: "Build products people love."
 }
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js" />
+</p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
 </p>
 
 ### Backend
@@ -71,37 +91,41 @@ const jyoti = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
 </p>
 
-### Tools
+### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode,figma,postman" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jyotiprakash111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jyotiprakash111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiprakash111&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiprakash111&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiprakash111&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jyotiprakash111&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2&column=4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jyotiprakash111&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jyotiprakash111&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -117,53 +141,47 @@ const jyoti = {
 
 ---
 
-# 🚀 What I'm Working On
-
-- ⚛️ Advanced React & Next.js Applications
-- 🤖 AI-powered Products
-- 🧠 Claude Integrations
-- ⚡ High Performance Web Apps
-- 🌐 Full Stack SaaS Development
-
----
-
 # 🌱 Currently Learning
 
-- AI Agents
-- Claude SDK
-- MCP
-- RAG
-- LangGraph
-- Vercel AI SDK
+- 🤖 AI Agents
+- 🧠 Claude Integrations
+- 🔗 MCP
+- ⚡ Vercel AI SDK
+- 🏗️ Scalable System Design
 
 ---
 
-# 📫 Connect With Me
+# 📌 Featured Projects
 
-<p align="center">
-
-<a href="https://twitter.com/Jyotiprakassh">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://t.me/jyotiprakashh">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🚀 Project One | Your flagship SaaS project | Next.js + Node |
+| 📱 Project Two | Mobile Application | React Native |
+| 🤖 AI Project | AI Powered Product | OpenAI + Claude |
+| ⚡ Portfolio | Personal Website | Next.js |
 
 ---
 
-<p align="center">
+# 📅 This Year
 
-<img src="https://komarev.com/ghpvc/?username=jyotiprakash111&style=for-the-badge&color=blue"/>
-
-</p>
+- ✅ Build more open-source projects
+- ✅ Write technical blogs
+- ✅ Contribute to React ecosystem
+- ✅ Learn advanced AI workflows
+- ✅ Help developers through content
 
 ---
 
-<p align="center">
+# 💬 Random Dev Quote
 
-### 💡 _"Great software is built one thoughtful commit at a time."_ 🚀
+> "First, solve the problem. Then, write the code."
 
-</p>
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider following me!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=120&section=footer"/>
+
+</div>
