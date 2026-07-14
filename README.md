@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jyotiprakash
 - 📍 Bangalore
 - 👨‍💻 Javascript dev   
-- 👀 I’m interested in React,Javascript,React Ecosystem
+- 👀 I’m interested in React,Nextjs,Typescript,React Ecosystem
 - 🌱 I’m currently learning Claude Integrations
 - 💞️ I’m looking to collaborate on Twitter
 - 📫 How to reach me ...
