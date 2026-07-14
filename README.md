@@ -1,77 +1,36 @@
 <div align="center">
 
-# Hi 👋 I'm Jyoti Prakash
+# Jyoti Prakash
 
-### Full Stack Engineer • React • Next.js • TypeScript • AI
+### Full Stack Engineer · React · Next.js · TypeScript · AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Open+Source+Enthusiast;Currently+Exploring+AI+Integrations" />
+Building fast, scalable web applications and developer experiences.
 
-<p>
-
-<a href="https://twitter.com/Jyotiprakassh">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://t.me/jyotiprakashh">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=jyotiprakash111&style=for-the-badge&color=blue"/>
-
-</p>
+[Twitter](https://twitter.com/Jyotiprakassh) •
+[Telegram](https://t.me/jyotiprakashh)
 
 </div>
 
 ---
 
-# 👨🏻‍💻 About Me
+## About
 
-```typescript
-const jyoti = {
-  location: "Bangalore 🇮🇳",
+I'm a Full Stack Engineer based in **Bangalore, India**.
 
-  role: "Full Stack Engineer",
+I enjoy building performant products with modern web technologies, solving real-world engineering problems, and exploring AI-powered developer workflows.
 
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Redux",
-    "Tailwind CSS"
-  ],
+Currently focused on:
 
-  backend: [
-    "Node.js",
-    "Express",
-    "REST APIs"
-  ],
-
-  database: [
-    "MongoDB",
-    "PostgreSQL",
-    "Prisma"
-  ],
-
-  cloud: [
-    "AWS",
-    "Vercel",
-    "Firebase"
-  ],
-
-  currentlyLearning: [
-    "AI Agents",
-    "Claude",
-    "MCP",
-    "LLMs"
-  ],
-
-  motto: "Build products people love."
-}
-```
+- React & Next.js
+- TypeScript
+- Node.js
+- AI Integrations
+- System Design
+- Developer Experience
 
 ---
 
-# 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -88,100 +47,65 @@ const jyoti = {
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres" />
 </p>
 
-### DevOps & Tools
+### Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,vscode,postman,figma" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## Current Focus
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jyotiprakash111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiprakash111&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Building scalable SaaS products
+- AI-powered applications
+- Open Source
+- Clean architecture
+- Performance optimization
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jyotiprakash111&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jyotiprakash111&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiprakash111&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- 🤖 AI Agents
-- 🧠 Claude Integrations
-- 🔗 MCP
-- ⚡ Vercel AI SDK
-- 🏗️ Scalable System Design
-
----
-
-# 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| 🚀 Project One | Your flagship SaaS project | Next.js + Node |
-| 📱 Project Two | Mobile Application | React Native |
-| 🤖 AI Project | AI Powered Product | OpenAI + Claude |
-| ⚡ Portfolio | Personal Website | Next.js |
+|----------|-------------|-------|
+| 🚀 Project One | Modern SaaS Platform | Next.js, Node.js |
+| 📱 Mobile App | Cross-platform mobile app | React Native |
+| 🤖 AI Assistant | AI-powered workflow | OpenAI, Claude |
+| ⚡ Portfolio | Personal website | Next.js |
+
+Replace these with your actual repositories.
 
 ---
 
-# 📅 This Year
+## GitHub Stats
 
-- ✅ Build more open-source projects
-- ✅ Write technical blogs
-- ✅ Contribute to React ecosystem
-- ✅ Learn advanced AI workflows
-- ✅ Help developers through content
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=jyotiprakash111&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiprakash111&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
 
 ---
 
-# 💬 Random Dev Quote
+## Let's Connect
 
-> "First, solve the problem. Then, write the code."
+- 🐦 Twitter — https://twitter.com/Jyotiprakassh
+- 💬 Telegram — https://t.me/jyotiprakashh
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider following me!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=120&section=footer"/>
+*"Great software isn't just built. It's thoughtfully crafted."*
 
 </div>
